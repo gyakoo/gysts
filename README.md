@@ -15,5 +15,5 @@ Disclaimer: All these gists represents a snapshot of their lifetime when created
 # Specific technologies/APIs
 * <a href="https://gist.github.com/gyakoo/aac4d3b91f3e35215f59">Testing graphics driver class in <a href="https://github.com/gyakoo/nostalgia"><b>nostalgia</b></a> project</a>
 * <a href="https://gist.github.com/gyakoo/103be04ae0b849b82c43">Testing input driver class in <a href="https://github.com/gyakoo/nostalgia"><b>nostalgia</b></a> project</a>
-* <a href="https://gist.github.com/gyakoo/4c0f83001efbdbc0c517">Set surface shader parameters in Havok Anarchy engine</a>
-* <a href="https://gist.github.com/gyakoo/bf7936c56acf9987e76f">Iterate through all materials in all static instances in a Zone in Havok Anarchy engine</a>
+* <a href="https://gist.github.com/gyakoo/4c0f83001efbdbc0c517">Set surface shader parameters in <a href="https://www.projectanarchy.com/"><b>Havok Anarchy engine</b></a>
+* <a href="https://gist.github.com/gyakoo/bf7936c56acf9987e76f">Iterate through all materials in all static instances in a Zone in <a href="https://www.projectanarchy.com/"><b>Havok Anarchy engine</b></a>
