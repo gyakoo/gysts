@@ -8,6 +8,7 @@ Disclaimer: All these gists represents a snapshot of their lifetime when created
 * <a href="https://gist.github.com/gyakoo/721e164202d3b108b46d">Enable report of all resource leaks in DX11</a>
 * <a href="https://gist.github.com/gyakoo/7af3d1abce1c156f5cb3">Cross platform functions for basic atomic aritmetic operations</a>
 * <a href="https://gist.github.com/gyakoo/45d3f1316acfb7aa8bc7">A* grid based implementation in Lua</a>
+* <a href="https://gist.github.com/gyakoo/ab8c5adc20c778890e3a">Simple C socket sample to make a http GET (forked)</a>
 
 # Some basic ADT
 * <a href="https://gist.github.com/gyakoo/31d2a0886794ffabbd63">Dynamic array ADT in C</a>
