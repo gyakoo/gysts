@@ -1,3 +1,5 @@
+Some small snippets of code that I just copied here.
+
 Disclaimer: All these gists represents a snapshot of their lifetime when created, some of them are outdated.
 
 # Misc
