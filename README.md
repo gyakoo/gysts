@@ -1,9 +1,9 @@
 Some snippets of code that I made and I just linked from here to their respective gist pages.
 
-<italic>Disclaimer: All these gists represents a snapshot of their lifetime when created, some of them might be outdated.</italic>
+<i>Disclaimer: All these gists represents a snapshot of their lifetime when created, some of them might be outdated.</i>
 
 # Misc
-* <a href="https://gist.github.com/gyakoo/1f77661d670876e6d0c1">Variadic template <italic>makeHash</italic> function using std::hash</a>
+* <a href="https://gist.github.com/gyakoo/1f77661d670876e6d0c1">Variadic template <i>makeHash</i> function using std::hash</a>
 * <a href="https://gist.github.com/gyakoo/68734f0481f2b450ef4d">Enumerate all objects in a device category in Win COM</a>
 * <a href="https://gist.github.com/gyakoo/acda1b149137e1888506">Retrieve width/height/depth/size of image files, formats: dds, jpg, png, tga, bmp, rgb</a>
 * <a href="https://gist.github.com/gyakoo/721e164202d3b108b46d">Enable report of all resource leaks in DX11</a>
