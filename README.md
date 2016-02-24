@@ -1,6 +1,6 @@
-Some small snippets of code that I just copied here.
+Some snippets of code that I made and I just linked from here to their respective gist pages.
 
-Disclaimer: All these gists represents a snapshot of their lifetime when created, some of them are outdated.
+Disclaimer: All these gists represents a snapshot of their lifetime when created, some of them might be outdated.
 
 # Misc
 * <a href="https://gist.github.com/gyakoo/1f77661d670876e6d0c1">Variadic template <italic>makeHash</italic> function using std::hash</a>
