@@ -17,6 +17,7 @@ Some snippets of code that I made and I just linked from here to their respectiv
 * <a href="https://gist.github.com/gyakoo/a87c8ade3e0ca7306744">Dictionaryin C</a>
 
 # Specific technologies/APIs
+* <a href="https://gist.github.com/gyakoo/b1e862cce1f8abbfa926">Downloading Tickets+Attachments from Parature through its </a><a href="https://github.com/Parature/ParatureSDK"><b>Parature SDK</b></a>
 * <a href="https://gist.github.com/gyakoo/aac4d3b91f3e35215f59">Testing graphics driver class in <a href="https://github.com/gyakoo/nostalgia"><b>nostalgia</b></a> project</a>
 * <a href="https://gist.github.com/gyakoo/103be04ae0b849b82c43">Testing input driver class in <a href="https://github.com/gyakoo/nostalgia"><b>nostalgia</b></a> project</a>
 * <a href="https://gist.github.com/gyakoo/4c0f83001efbdbc0c517">Set surface shader parameters in <a href="https://www.projectanarchy.com/"><b>Havok Anarchy</b></a> engine</a>
