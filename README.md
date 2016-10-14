@@ -11,10 +11,8 @@ Some snippets of code that I made and I just linked from here to their respectiv
 * <a href="https://gist.github.com/gyakoo/45d3f1316acfb7aa8bc7">A* grid based implementation in Lua</a>
 * <a href="https://gist.github.com/gyakoo/ab8c5adc20c778890e3a">Simple C socket sample to make a http GET</a>(forked)
 
-# Some basic ADT
-* <a href="https://gist.github.com/gyakoo/31d2a0886794ffabbd63">Dynamic array ADT in C</a>
-* <a href="https://gist.github.com/gyakoo/89c6d08b765d1d37556c">Stack based in a dynamic array in C</a>
-* <a href="https://gist.github.com/gyakoo/a87c8ade3e0ca7306744">Dictionaryin C</a>
+# UWP
+* <a href="https://gist.github.com/gyakoo/cfef3ca0403d26a082afc8c055240082">Toggle Fullscreen UWP/C++ application</a>
 
 # Specific technologies/APIs
 * <a href="https://gist.github.com/gyakoo/b1e862cce1f8abbfa926">Downloading Tickets+Attachments from Parature through its </a><a href="https://github.com/Parature/ParatureSDK"><b>Parature SDK</b></a>
@@ -23,5 +21,7 @@ Some snippets of code that I made and I just linked from here to their respectiv
 * <a href="https://gist.github.com/gyakoo/4c0f83001efbdbc0c517">Set surface shader parameters in <a href="https://www.projectanarchy.com/"><b>Havok Anarchy</b></a> engine</a>
 * <a href="https://gist.github.com/gyakoo/bf7936c56acf9987e76f">Iterate through all materials in all static instances in a Zone in <a href="https://www.projectanarchy.com/"><b>Havok Anarchy</b></a> engine</a>
 
-# UWP
-* <a href="https://gist.github.com/gyakoo/cfef3ca0403d26a082afc8c055240082">Toggle Fullscreen UWP/C++ application</a>
+# Some basic ADT in C
+* <a href="https://gist.github.com/gyakoo/31d2a0886794ffabbd63">Dynamic array ADT in C</a>
+* <a href="https://gist.github.com/gyakoo/89c6d08b765d1d37556c">Stack based in a dynamic array in C</a>
+* <a href="https://gist.github.com/gyakoo/a87c8ade3e0ca7306744">Dictionaryin C</a>
