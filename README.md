@@ -22,3 +22,6 @@ Some snippets of code that I made and I just linked from here to their respectiv
 * <a href="https://gist.github.com/gyakoo/103be04ae0b849b82c43">Testing input driver class in <a href="https://github.com/gyakoo/nostalgia"><b>nostalgia</b></a> project</a>
 * <a href="https://gist.github.com/gyakoo/4c0f83001efbdbc0c517">Set surface shader parameters in <a href="https://www.projectanarchy.com/"><b>Havok Anarchy</b></a> engine</a>
 * <a href="https://gist.github.com/gyakoo/bf7936c56acf9987e76f">Iterate through all materials in all static instances in a Zone in <a href="https://www.projectanarchy.com/"><b>Havok Anarchy</b></a> engine</a>
+
+# UWP
+* <a href="https://gist.github.com/gyakoo/cfef3ca0403d26a082afc8c055240082">Toggle Fullscreen UWP/C++ application</a>
