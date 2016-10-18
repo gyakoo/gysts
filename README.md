@@ -3,6 +3,7 @@ Some snippets of code that I made and I just linked from here to their respectiv
 <i>Disclaimer: All these gists represents a snapshot of their lifetime when created, some of them might be outdated.</i>
 
 # Misc
+* <a href="https://gist.github.com/gyakoo/a0abf36c3c7abdbbbb298acfa994e60d">Profile 'min' search using sequential, parallel_for_each, combinable and atomic in a concurrent_vector </a>
 * <a href="https://gist.github.com/gyakoo/1f77661d670876e6d0c1">Variadic template <i>makeHash</i> function using std::hash</a>
 * <a href="https://gist.github.com/gyakoo/68734f0481f2b450ef4d">Enumerate all objects in a device category in Win COM</a>
 * <a href="https://gist.github.com/gyakoo/acda1b149137e1888506">Retrieve width/height/depth/size of image files, formats: dds, jpg, png, tga, bmp, rgb</a>
