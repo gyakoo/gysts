@@ -15,6 +15,7 @@ Some snippets of code that I made and I just linked from here to their respectiv
 
 # UWP
 * <a href="https://gist.github.com/gyakoo/cfef3ca0403d26a082afc8c055240082">Toggle Fullscreen UWP/C++ application</a>
+* <a href="https://gist.github.com/gyakoo/95ba9abf99eba5d9a005467f1695caec">Reading Entire File from Arbitrary Path UWP/C++ with Exceptions</a>
 
 # Specific technologies/APIs
 * <a href="https://gist.github.com/gyakoo/b1e862cce1f8abbfa926">Downloading Tickets+Attachments from Parature through its </a><a href="https://github.com/Parature/ParatureSDK"><b>Parature SDK</b></a>
