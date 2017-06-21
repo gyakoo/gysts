@@ -12,6 +12,7 @@ Some snippets of code that I made and I just linked from here to their respectiv
 * <a href="https://gist.github.com/gyakoo/7af3d1abce1c156f5cb3">Cross platform functions for basic atomic aritmetic operations</a>
 * <a href="https://gist.github.com/gyakoo/45d3f1316acfb7aa8bc7">A* grid based implementation in Lua</a>
 * <a href="https://gist.github.com/gyakoo/ab8c5adc20c778890e3a">Simple C socket sample to make a http GET</a>(forked)
+* <a href="https://gist.github.com/gyakoo/01abb109f28f8a5a11ec53518d4f8add">Pygame/Python script to flip an image by Rects</a>
 
 # UWP
 * <a href="https://gist.github.com/gyakoo/cfef3ca0403d26a082afc8c055240082">Toggle Fullscreen UWP/C++ application</a>
